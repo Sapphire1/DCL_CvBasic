@@ -1,8 +1,8 @@
 /*!
- * \file CvSolvePnP_Processor.hpp
- * \brief Position estimation component.
- * \date Oct 20, 2010
- * \author mboryn
+ * \file HomogenousMatrixProvider.hpp
+ * \brief Homogenous matrix generator
+ * \date Sep 13, 2014
+ * \author lzmuda
  */
 
 #ifndef HOMOGONEUSMATRIXPROVIDE_HPP_
